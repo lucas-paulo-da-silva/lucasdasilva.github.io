@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lucas Paulo da Silva"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lucas Paulo da Silva"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #""
+  name             : "Lucas Paulo da Silva"
   pronouns         : # example: "she/her"  
   bio              : "I use computational and experimental methods to explore political behavior, ideology, media, and political economy."
   location         : "Dublin, Ireland"
