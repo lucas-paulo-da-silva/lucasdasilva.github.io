@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/lucas-paulo-da-silva"
+  github           : "lucas-paulo-da-silva"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : lucas-paulo-da-silva/ # Username
+  linkedin         : "lucas-paulo-da-silva/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : Lucas_P_daSilva # Username for X / Twitter
+  twitter          : "Lucas_P_daSilva" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
