@@ -13,7 +13,7 @@ title                    : "Lucas' Homepage"
 title_separator          : "-"
 name                     : &name "Lucas Paulo da Silva"
 description              : &description "personal description"
-url                      : https://lucasdasilva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lucas-paulo-da-silva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucas-paulo-da-silva/lucasdasilva.github.io"
 
