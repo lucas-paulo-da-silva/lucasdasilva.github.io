@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lucas_image.jpg"
+  avatar           : "Lucas_2.png"
   name             : "Lucas Paulo da Silva"
   pronouns         : # example: "she/her"  
   bio              : "I use computational and experimental methods to explore political behavior, ideology, media, and political economy."
